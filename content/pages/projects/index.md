@@ -4,7 +4,7 @@ title: Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/forestspirits.jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -61,7 +61,7 @@ bottomSections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Tell me about your idea or project!
           isRequired: true
           width: full
           type: TextareaFormControl

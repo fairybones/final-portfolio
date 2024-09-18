@@ -1,14 +1,15 @@
 ---
 type: PostLayout
-title: How to Structure and Organize a Next.js Project 🗂️
-colors: colors-a
-date: '2024-06-03'
+title: The Future of *Secure* Web Development
+colors: colors-d
+date: '2024-06-21'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  What if developers placed an emphasis on security compliance in the
+  development process?
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image6.jpg
+  url: /images/secureStock.jpg
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
@@ -45,7 +46,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock

@@ -4,23 +4,44 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/backdropClouds.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-d
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ## Hiya! I'm Annie, a web developer with a passion for lifelong learning
+      and problem-solving. 
+
+
+      Whether its tackling a coding challenge or a solving puzzles in other
+      mediums, I thrive on finding solutions. 
+
+
+      I hold a certificate in Full-Stack Development and a Bachelor's degree
+      from Arizona State University, where my undergrad research focused on
+      evolving relationships between humans and technology, AI and robot ethics,
+      and prompt engineering. 
+
+
+      As I continue to grow my knowledge and proficiency in dozens of web
+      languages, I have developed a special interest in cybersecurity,
+      particularly as a part of the development lifecycle rather than waiting
+      until production to meet compliance standards. I'm also exploring both
+      software and hardware development as I expand my knowledge of programming
+      languages and integrated systems. 
+
+
+      My dedication to experimentation, agile development, and securing the
+      intersection of technology and humanity drives me to deliver user-centric,
+      trustworthy, and innovative solutions.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/annie.png
       altText: Hero image
     styles:
       self:
@@ -46,200 +67,50 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'You can find me here:'
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: LabelsSection
     colors: colors-f
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: JavaScript + libraries
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: Node.js
+        url: ''
       - type: Label
-        label: Next.js
+        label: Express.js
+        url: ''
       - type: Label
-        label: Netlify
+        label: Servers
       - type: Label
-        label: Pancakes
+        label: Responsive Design
+        url: ''
       - type: Label
-        label: C++
+        label: GraphQL
+        url: ''
       - type: Label
-        label: Swift
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+        label: Postgres/mySQL
+      - type: Label
+        label: MongoDB/Mongoose ODM
+      - type: Label
+        label: Authentication
+      - type: Label
+        label: API Consumption
+      - type: Label
+        label: Custom APIs
+      - type: Label
+        label: SBOM Generation
+        url: ''
+      - type: Label
+        label: Progressive Web Apps
+        url: ''
+      - type: Label
+        label: VEX
+        url: ''
+      - type: Label
+        label: CycloneDX
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -257,26 +128,37 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: >+
           **Current**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          *   freelance development for Protec Accessories
 
-          * fullstack at this startup
 
-          **2015**
+          <!---->
 
-          * senior front-end at this place
 
-          **2013**
+          *   design, build, deploy, and monitor an ecommerce site designed for
+          individual and wholesale retail
 
-          * intern developer at a big company
 
-          **2011**
+          **2017 - 2023**
 
-          * flipping burgers
+
+          *   seasonal work at Spirit Halloween
+
+
+          <!---->
+
+
+          *   3 years of management, promoted each year
+
+
+          <!---->
+
+
+          *   top-grossing store location in state all 3 years
+
         styles:
           self:
             textAlign: left
@@ -287,18 +169,25 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **Feb-Aug 2024**
 
-          * ba computer sciense at a semi fancy school
+          *   excelled in a 24 week bootcamp program
 
-          **2014**
+          *   discovered a love for backend development
 
-          * react certificate somewhere
+          **Pandemic 2020**
 
-          **2011**
+          *   began coding as a hobby
 
-          * my highschool
+          **Aug 2019 - May 2023**
+
+          *   completed Bachelor's degree, graduating with honors
+
+          **May 2019**
+
+          *   graduated with high school diploma + 30 community college credits
+
         styles:
           self:
             textAlign: left
@@ -345,9 +234,105 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: FeaturedItemsSection
+    colors: colors-f
+    items:
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: GitHub
+            url: 'https://github.com/fairybones'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Linkedin
+            url: 'https://www.linkedin.com/in/annie-schalnat/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions:
+          - type: Link
+            label: Profile
+            url: 'https://www.linkedin.com/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions: []
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        actions: []
+        styles:
+          self:
+            textAlign: left
+    columns: 3
+    spacingX: 120
+    spacingY: 0
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderRadius: none
+        borderWidth: 0
+        borderStyle: none
+        borderColor: border-dark
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+    subtitle: 'You can find me here:'
+  - type: TextSection
+    variant: variant-a
+    subtitle: ''
+    colors: colors-f
+    text: >+
+      <div style="text-align:
+      center">[aeschalna@gmail.com](mailto:thisismyemail.@myemail.me)</div>
+
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
   - type: ContactSection
     backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+    title: "Let’s chat... \U0001F4AC"
     colors: colors-f
     form:
       type: FormBlock
@@ -377,15 +362,10 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Tell me about your idea or project!
           isRequired: true
           width: full
           type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
@@ -411,4 +391,16 @@ sections:
         textAlign: left
       text:
         textAlign: left
+  - type: DividerSection
+    styles:
+      self:
+        width: wide
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+        borderStyle: solid
 ---

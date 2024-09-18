@@ -1,15 +1,17 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: ...
 colors: colors-a
-date: '2021-10-15'
-client: Awesome client
+date: '2024-04-18'
+client: Bootcamp Project
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Developed a brewery locator app that retrieves and displays nearby breweries
+  within a user-defined distance radius, leveraging Bulma CSS for responsive
+  design and Node.js for server-side logic.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project thumbnail image
+  url: /images/GitBrew.png
+  altText: Git Breweries Icon
 media:
   type: ImageBlock
   url: /images/bg1.jpg

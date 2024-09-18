@@ -1,10 +1,12 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "Annie",
+    "lastName": "Schalnat",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
-    }
+        "url": "/images/annie.png",
+        "altText": "Annie Schalnat photo"
+    },
+    "role": "Author",
+    "bio": "I am an emerging developer passionate about integrating cybersecurity best practices throughout the development lifecycle. With proficiency in a diverse array of web technologies including JavaScript, Mongoose, and GraphQL, my work focuses on crafting technologies that prioritize both user experience and data protection.\n\nWith experience in freelancing web design and development, along with a background in human-machine communication, AI ethics, and agile development, I am positioned to deliver secure, ethical, and innovative solutions. Currently, I am exploring the intersection of software and hardware, experimenting with hardware programming to deepen my understanding of integrated systems. \n\nI’m eager to apply my coding and research skills to create forward-thinking technologies that foster positive relationships between humans and technology. \n"
 }

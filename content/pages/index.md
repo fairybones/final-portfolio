@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/02-cosmos-flowers.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,13 +13,13 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'Hi I''m Annie Schalnat,'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      A puzzle solver passionate about integrating cybersecurity best practices
+      throughout the development lifecycle. My work prioritizes both user
+      experience and data protection, creating technologies that foster
+      positive, transparent, and trustworthy relationships between humans and
+      technology.
     styles:
       self:
         height: auto
@@ -41,6 +41,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+        fontStyle: italic
       text:
         textAlign: left
       actions:
@@ -84,7 +85,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
@@ -127,10 +128,11 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: ''
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: Curious about collaborating ?
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -156,22 +158,18 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
+        - name: github
+          label: Github
           hideLabel: true
-          placeholder: Address
+          placeholder: Github URL
           isRequired: true
           width: 1/2
           type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: "Submit \U0001F9DA‍♀️"
       styles:
         submitLabel:
           textAlign: center
+      title: ''
     styles:
       self:
         height: auto

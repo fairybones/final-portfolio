@@ -1,14 +1,15 @@
 ---
 type: PostLayout
-title: Composable - the future of web
+title: bootcamp takeaways
 colors: colors-b
-date: '2024-01-01'
+date: '2024-08-16'
 author: content/data/team/doris-soto.json
 excerpt: >-
-  More context that may or may not be helpful
+  A concise list of the top 10 lessons I learned while completing ASU's Full
+  Stack Web Development Bootcamp.
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image3.jpg
+  url: /images/asuBlog.webp
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
@@ -52,7 +53,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock

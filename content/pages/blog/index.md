@@ -4,7 +4,7 @@ title: Blog
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/02-cosmos-flowers.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
