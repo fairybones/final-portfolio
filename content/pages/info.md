@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/backdropClouds.png
+  url: /images/moonset.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,18 +14,17 @@ sections:
     colors: colors-d
     backgroundSize: full
     text: >
-      ## Hiya! I'm Annie, a web developer with a passion for lifelong learning
-      and problem-solving. 
+      ## Hiya! I'm Annie, a programmer with a passion for problem-solving.
 
 
       Whether its tackling a coding challenge or a solving puzzles in other
-      mediums, I thrive on finding solutions. 
+      mediums, I thrive on finding solutions.
 
 
-      I hold a certificate in Full-Stack Development and a Bachelor's degree
+      I hold a certificate in Full-Stack Web Development and a Bachelor's degree
       from Arizona State University, where my undergrad research focused on
       evolving relationships between humans and technology, AI and robot ethics,
-      and prompt engineering. 
+      and prompt engineering.
 
 
       As I continue to grow my knowledge and proficiency in dozens of web
@@ -33,7 +32,7 @@ sections:
       particularly as a part of the development lifecycle rather than waiting
       until production to meet compliance standards. I'm also exploring both
       software and hardware development as I expand my knowledge of programming
-      languages and integrated systems. 
+      languages and integrated systems.
 
 
       My dedication to experimentation, agile development, and securing the

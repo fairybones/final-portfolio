@@ -4,7 +4,7 @@ title: Blog
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/02-cosmos-flowers.jpg
+  url: /images/moonrise.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

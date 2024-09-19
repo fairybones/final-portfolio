@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: bootcamp takeaways
+title: Bootcamp Takeaways
 colors: colors-b
 date: '2024-08-16'
 author: content/data/team/doris-soto.json
@@ -10,10 +10,9 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/asuBlog.webp
-  altText: Post thumbnail image
+  altText: Bootcamp Experience in AZ
 backgroundImage:
   type: BackgroundImage
-  url: /images/gallery-2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

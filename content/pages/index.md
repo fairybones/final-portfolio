@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/02-cosmos-flowers.jpg
+  url: /images/pink-flowers.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,11 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: 'Hi I''m Annie Schalnat,'
+    title: 'I''m Annie Schalnat,'
     subtitle: >-
-      A puzzle solver passionate about integrating cybersecurity best practices
-      throughout the development lifecycle. My work prioritizes both user
-      experience and data protection, creating technologies that foster
+      A puzzle solver/developer passionate about integrating cybersecurity best
+      practices throughout the development lifecycle. My work prioritizes both
+      user experience and data protection, creating technologies that foster
       positive, transparent, and trustworthy relationships between humans and
       technology.
     styles:
@@ -165,7 +165,7 @@ sections:
           isRequired: true
           width: 1/2
           type: TextFormControl
-      submitLabel: "Submit \U0001F9DA‍♀️"
+      submitLabel: "Contact Me \U0001F9DA‍♀️"
       styles:
         submitLabel:
           textAlign: center
