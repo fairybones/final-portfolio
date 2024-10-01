@@ -101,6 +101,13 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+backgroundImage:
+  type: BackgroundImage
+  url: /images/moonrise.png
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 Over September 11-12, I was fortunate to attend SBOM-a-rama, a critically important conference hosted by CISA, America’s Cyber Defense Agency. CISA exists to mitigate risks in the cyberspace ecosystem and manage critical infrastructure of the United States, but represents just one sector of many that are molding and evolving the future of cybersecurity globally.
 

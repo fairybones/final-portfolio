@@ -9,13 +9,6 @@ featuredImage:
   type: ImageBlock
   url: /images/robotfriendroyaltyfree.png
   altText: Post thumbnail image
-backgroundImage:
-  type: BackgroundImage
-  url: /images/pink-flowers.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 20
 bottomSections:
   - elementId: ''
     type: RecentPostsSection

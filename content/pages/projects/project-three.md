@@ -7,17 +7,20 @@ client: 'Bootcamp Project #3'
 description: >-
   Collaborated with a team to create a restaurant review app designed
   specifically to support small businesses, personally contributing the backend
-  models and server-side development utilizing a MERN stack.
+  models and server-side development utilizing a MERN stack. Authorization using
+  JWT
 featuredImage:
   type: ImageBlock
   url: /images/goodEatsFinal.png
   altText: Good Eats Logo
   caption: Project thumbnail image
-media:
-  type: ImageBlock
-  url: /images/goodEatsFinal.png
-  altText: Good Eats Logo
+backgroundImage:
+  type: BackgroundImage
+  url: /images/moonset.webp
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
-Repository:
+<div style="text-align: center">[*https://good-eats.onrender.com/*](https://good-eats.onrender.com/)</div>
 
-Deployed Application:

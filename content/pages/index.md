@@ -4,8 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: >-
-    /images/pink-universe-light-galaxies-sky-in-space-planets-and-stars-beauty-of-galaxy-space-exploration-photo.jpeg
+  url: /images/backdropClouds.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

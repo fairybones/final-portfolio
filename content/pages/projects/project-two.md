@@ -17,10 +17,13 @@ media:
   type: ImageBlock
   url: /images/ProTecLOGO.png
   altText: ProTec Accessories
+backgroundImage:
+  type: BackgroundImage
+  url: /images/moonrise.png
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
-Repository:
-
-Deployed Application:
-
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+> <div style="text-align: center"><https://protec-accessories.netlify.app></div>
 

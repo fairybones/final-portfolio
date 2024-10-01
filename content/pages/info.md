@@ -81,7 +81,7 @@ sections:
         label: Express.js
         url: ''
       - type: Label
-        label: Servers
+        label: Next.js
       - type: Label
         label: Responsive Design
         url: ''
@@ -89,7 +89,7 @@ sections:
         label: GraphQL
         url: ''
       - type: Label
-        label: Postgres/mySQL
+        label: Postgres/SQL
       - type: Label
         label: MongoDB/Mongoose ODM
       - type: Label
@@ -100,15 +100,6 @@ sections:
         label: Custom APIs
       - type: Label
         label: SBOM Generation
-        url: ''
-      - type: Label
-        label: Progressive Web Apps
-        url: ''
-      - type: Label
-        label: VEX
-        url: ''
-      - type: Label
-        label: CycloneDX
         url: ''
   - type: DividerSection
     styles:
