@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,400;0,500;1,400;1,500&family=DM+Mono:ital,wght@0,400;0,500;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
 
 @tailwind base;
 @tailwind components;
@@ -188,7 +188,9 @@
         z-index: -1;
         transform: translate3d(0, -100%, 0);
         transform-origin: 0% 100%;
-        transition: transform 0.25s, opacity 0.25s;
+        transition:
+            transform 0.25s,
+            opacity 0.25s;
         width: 101%;
     }
     .sb-component-link-fill:hover:before,
@@ -240,8 +242,12 @@
     .sb-select {
         @apply bg-no-repeat appearance-none cursor-pointer pr-7;
         background-image: linear-gradient(45deg, transparent 50%, currentColor 0), linear-gradient(135deg, currentColor 50%, transparent 0);
-        background-position: calc(100% - 18px) calc(1px + 50%), calc(100% - 12px) calc(1px + 50%);
-        background-size: 6px 6px, 6px 6px;
+        background-position:
+            calc(100% - 18px) calc(1px + 50%),
+            calc(100% - 12px) calc(1px + 50%);
+        background-size:
+            6px 6px,
+            6px 6px;
         background-repeat: no-repeat;
     }
 
