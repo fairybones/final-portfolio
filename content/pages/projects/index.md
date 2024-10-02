@@ -4,7 +4,7 @@ title: ''
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/pan-da-chuan-dwKd_Epw2GE-unsplash.jpg
+  url: /images/big-pink-jellie.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

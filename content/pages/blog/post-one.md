@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: Loading...
 featuredImage:
   type: ImageBlock
-  url: /images/annie.png
+  url: /images/hotpinkjellies.jpg
   altText: Post thumbnail image
 media:
   url: /images/posthumangenAI.webp

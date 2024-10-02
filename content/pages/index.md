@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/don-daskalo-zJEr9SzF2DM-unsplash.jpg
+  url: /images/hotpinkjellies.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
