@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Reflecting On SBOM-a-rama 2024
-colors: colors-c
+colors: colors-d
 date: '2024-09-16'
 author: content/data/team/doris-soto.json
 excerpt: 'A cybersecurity conference hosted by CISA in Denver, CO'
@@ -101,27 +101,20 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
-backgroundImage:
-  type: BackgroundImage
-  url: /images/moonrise.png
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 100
 ---
 Over September 11-12, I was fortunate to attend SBOM-a-rama, a critically important conference hosted by CISA, America’s Cyber Defense Agency. CISA exists to mitigate risks in the cyberspace ecosystem and manage critical infrastructure of the United States, but represents just one sector of many that are molding and evolving the future of cybersecurity globally.
 
 ## Day 1
 
-With speakers and participants from multiple countries and many industries, including \~ but not limited to \~ government, healthcare, software development, and supply-chain security. The agenda for the day was strategically set to maximize presentations while permitting time for questions and discussion. As the ballroom fills, the excitement is palpable as people connect with long-distance coworkers and colleagues, some of whom they communicate with weekly but are just now meeting in the flesh. Participants take their seats and at 9am sharp the convention begins. Across technical and legal divides, there is a unitary, glimmering goal of industry wide collaboration. Specifically, there is a call to action from many for global data normalization, standardization of naming conventions and component identification. The working goal is to reach a single SBOM approach that is compatible with distinct and extensible use cases. 
+With speakers and participants from multiple countries and many industries, including \~ but not limited to \~ government, healthcare, software development, and supply-chain security. The agenda for the day was strategically set to maximize presentations while permitting time for questions and discussion. As the ballroom fills, the excitement is palpable as people connect with long-distance coworkers and colleagues, some of whom they communicate with weekly but are just now meeting in the flesh. Participants take their seats and at 9am sharp the convention begins. Across technical and legal divides, there is a unitary, glimmering goal of industry wide collaboration. Specifically, there is a call to action from many for global data normalization, standardization of naming conventions and component identification. The working goal is to reach a single SBOM approach that is compatible with distinct and extensible use cases.
 
-This is where the solidarity fractures. Specifically, to what extent is disclosure necessary in order to secure vulnerabilities and enhance technological trust and transparency? Documentation outlining the minimum requirements for a Software Bill of Materials (SBOM) exists, but as experts from across the globe exchange views on the current problems in cybersecurity, it is evident that these regulations require further deliberation. There is a consensus from many that sharing data is the way forward. But this solution presents complications in data ownership, legal sovereignty, and the real world implications of a global data lake, from storage to privacy and protection. 
+This is where the solidarity fractures. Specifically, to what extent is disclosure necessary in order to secure vulnerabilities and enhance technological trust and transparency? Documentation outlining the minimum requirements for a Software Bill of Materials (SBOM) exists, but as experts from across the globe exchange views on the current problems in cybersecurity, it is evident that these regulations require further deliberation. There is a consensus from many that sharing data is the way forward. But this solution presents complications in data ownership, legal sovereignty, and the real world implications of a global data lake, from storage to privacy and protection.
 
-As the discussion progresses it is apparent that there must be a proprietary distinction between internally shared SBOM data and readily available SBOM data. Interconnectivity between security and development teams is a must, so how do we foster communication flow inside and outside of an organization? 
+As the discussion progresses it is apparent that there must be a proprietary distinction between internally shared SBOM data and readily available SBOM data. Interconnectivity between security and development teams is a must, so how do we foster communication flow inside and outside of an organization?
 
+### Day 2
 
+Beyond the future of SBOM generation, vulnerability tracking, and risk management sits a team whose goal is to determine a standard for transparency and trust in AI models. Of the many Tiger Teams that tackle various issues, the AIBOM team may have the largest challenge. In a field as largely unregulated as Artificial Intelligence, standards for trust and transparency are critically important. But what can &/or should be disclosed? 
 
-
-
-### Heading 3
+In between the hustle and bustle of the tech solutions showcase, the AIBOM team gathers with other brilliant minds in cybersecurity and software development to discuss and debate the standards for transparency. While most support the inclusion of training data and model weights in this proposed AI Bill of Materials, experts point out that it can take years to refine the model weights and that level of detail should not be open source or available. 
 

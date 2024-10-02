@@ -19,7 +19,7 @@ media:
   altText: ProTec Accessories
 backgroundImage:
   type: BackgroundImage
-  url: /images/moonrise.png
+  url: /images/forestspirits.jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: Unboxing Ethical AI
-colors: colors-a
+colors: colors-d
 date: '2024-06-10'
 author: content/data/team/doris-soto.json
 excerpt: Article coming soon!

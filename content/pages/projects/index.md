@@ -4,7 +4,7 @@ title: ''
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/forestspirits.jpeg
+  url: /images/pan-da-chuan-dwKd_Epw2GE-unsplash.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

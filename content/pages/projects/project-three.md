@@ -16,7 +16,7 @@ featuredImage:
   caption: Project thumbnail image
 backgroundImage:
   type: BackgroundImage
-  url: /images/moonset.webp
+  url: /images/forestspirits.jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat

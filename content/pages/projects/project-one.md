@@ -16,7 +16,7 @@ featuredImage:
   elementId: ''
 backgroundImage:
   type: BackgroundImage
-  url: /images/pink-flowers.jpg
+  url: /images/forestspirits.jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
